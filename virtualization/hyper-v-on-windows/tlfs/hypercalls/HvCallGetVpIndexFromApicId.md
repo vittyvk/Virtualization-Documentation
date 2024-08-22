@@ -10,7 +10,7 @@ ms.topic: reference
 
 # HvCallGetVpIndexFromApicId
 
-The HvCallGetVpIndexFromApicId allows the caller to retrieve a VP index for the VP with the specified APID ID.
+The HvCallGetVpIndexFromApicId allows the caller to retrieve a VP index for the VP with the specified APIC ID.
 
 ## Interface
 
